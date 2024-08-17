@@ -1,0 +1,9 @@
+Dataset Links
+
+For accessing the image datasets, please use the following links:
+
+256x256 Resolution Images: 
+https://drive.google.com/file/d/1yC6nKih8HcAAoKCVM-Lo6bxGQ2O8T5-_/view?usp=sharing
+
+High-Resolution Images: 
+https://drive.google.com/file/d/1jqSKDypbN3vfGBA2SnUuQLuSnZC3BPYh/view?usp=sharing
