@@ -13,7 +13,7 @@ The images were sourced from:
 - A digital library dedicated to mechanisms and gears [Reference](#).
 - A book with a vast collection of 2D sketches of mechanical mechanisms [Reference](#).
 
-<imgsrc="figures/wordcloud.jpg"alt="Word Cloud"width="50%">
+![Sample Figures](figures/wordcloud.jpg)
 
 ## Links to the Dataset
 -**256x256 Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1yC6nKih8HcAAoKCVM-Lo6bxGQ2O8T5-_/view?usp=sharing)
