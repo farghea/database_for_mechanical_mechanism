@@ -5,8 +5,8 @@ This repository contains a dataset of approximately 9,000 images and correspondi
 
 ## Dataset Overview
 The dataset includes:
--3D Sketches: 4,852 images
--2D Sketches: 4,142 images
+- 3D Sketches: 4,852 images
+- 2D Sketches: 4,142 images
 
 The images were sourced from:
 - A YouTube channel focused on mechanical design [Ivan I Artobolevsky. Mechanisms in modern engineering design. Mir publishers, 1, 2, 3, 4, 1975-1980.].
@@ -16,8 +16,8 @@ The images were sourced from:
 ![Sample Figures](figures/wordcloud.jpg)
 
 ## Links to the Dataset
--**256x256 Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1yC6nKih8HcAAoKCVM-Lo6bxGQ2O8T5-_/view?usp=sharing)
--**High-Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1jqSKDypbN3vfGBA2SnUuQLuSnZC3BPYh/view?usp=sharing)
+- **256x256 Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1yC6nKih8HcAAoKCVM-Lo6bxGQ2O8T5-_/view?usp=sharing)
+- **High-Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1jqSKDypbN3vfGBA2SnUuQLuSnZC3BPYh/view?usp=sharing)
 
 ## Applications
 The dataset has been used to fine-tune two AI models:
@@ -26,10 +26,11 @@ The dataset has been used to fine-tune two AI models:
 
 ![Generated Examples](figures/generated.png)
 
-## Structure of the Repository-**data/**: Contains the dataset links and other relevant files.
--**notebooks/**: Jupyter notebooks used for fine-tuning models and generating results.
--**figures/**: Contains the figures.
--**doc/**: Contains the project documentation, including the PDF version of the work.
+## Structure of the Repository
+- **data/**: Contains the dataset links and other relevant files.
+- **notebooks/**: Jupyter notebooks used for fine-tuning models and generating results.
+- **figures/**: Contains the figures.
+- **doc/**: Contains the project documentation, including the PDF version of the work.
 
 ## Limitations and Future Work
 - The dataset size is relatively small, which limits the model's ability to generalize across diverse mechanical designs.
