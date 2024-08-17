@@ -9,9 +9,9 @@ The dataset includes:
 - 2D Sketches: 4,142 images
 
 The images were sourced from:
-- A YouTube channel focused on mechanical design [Ivan I Artobolevsky. Mechanisms in modern engineering design. Mir publishers, 1, 2, 3, 4, 1975-1980.].
+- A YouTube channel focused on mechanical design [https://www.youtube.com/@thang010146/featured].
 - A digital library dedicated to mechanisms and gears [https://www.dmg-lib.org/dmglib/main/portal.jsp?mainNaviState=browsen.video].
-- A book with a vast collection of 2D sketches of mechanical mechanisms [https://www.youtube.com/@thang010146/featured].
+- A book with a vast collection of 2D sketches of mechanical mechanisms [Ivan I Artobolevsky. Mechanisms in modern engineering design. Mir publishers, 1, 2, 3, 4, 1975-1980.].
 
 ![Sample Figures](figures/wordcloud.jpg)
 
