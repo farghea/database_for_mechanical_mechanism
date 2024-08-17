@@ -6,6 +6,7 @@ This repository contains a dataset of approximately 9,000 images and correspondi
 ## Dataset Overview
 The dataset includes:
 -**3D Sketches**: 4,852 images
+
 -**2D Sketches**: 4,142 images
 
 The images were sourced from:
@@ -18,6 +19,7 @@ main/portal.jsp?mainNaviState=browsen.video].
 
 ## Links to the Dataset
 -**256x256 Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1yC6nKih8HcAAoKCVM-Lo6bxGQ2O8T5-_/view?usp=sharing)
+
 -**High-Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1jqSKDypbN3vfGBA2SnUuQLuSnZC3BPYh/view?usp=sharing)
 
 ## Applications
