@@ -1,4 +1,4 @@
-# A Dataset for Mechanical Mechanisms## Introduction
+# A Dataset for Mechanical Mechanisms
 This repository contains a dataset of approximately 9,000 images and corresponding descriptions of mechanical mechanisms. The dataset is intended to support research in mechanism design, particularly in the application of generative AI models such as Stable Diffusion and BLIP-2 for generating and captioning mechanical designs.
 
 ![Sample Figures](figures/samples_U.png)
