@@ -21,8 +21,8 @@ The images were sourced from:
 
 ## Applications
 The dataset has been used to fine-tune two AI models:
-1.**Stable Diffusion**: Fine-tuned for generating new mechanical designs. While the model performs well with 3D sketches, it struggles with 2D sketches, sometimes producing nonsensical outputs.
-2.**BLIP-2**: Fine-tuned for generating captions for mechanical designs. The results are mixed, with the model occasionally producing inaccurate captions due to limited training epochs.
+1. **Stable Diffusion**: Fine-tuned for generating new mechanical designs. While the model performs well with 3D sketches, it struggles with 2D sketches, sometimes producing nonsensical outputs.
+2. **BLIP-2**: Fine-tuned for generating captions for mechanical designs. The results are mixed, with the model occasionally producing inaccurate captions due to limited training epochs.
 
 ![Generated Examples](figures/generated.png)
 
