@@ -5,6 +5,7 @@ This repository contains a dataset of approximately 9,000 images and correspondi
 
 ## Dataset Overview
 The dataset includes:
+<<<<<<< HEAD
 -**3D Sketches**: 4,852 images
 
 -**2D Sketches**: 4,142 images
@@ -13,14 +14,27 @@ The images were sourced from:
 - A YouTube channel focused on mechanical design [Ivan I Artobolevsky. Mechanisms in modern engineering design. Mir publishers, 1, 2, 3, 4, 1975-1980.]
 - A digital library dedicated to mechanisms and gears [https://www.dmg-lib.org/dmglib/
 main/portal.jsp?mainNaviState=browsen.video].
+=======
+- 3D Sketches: 4,852 images
+- 2D Sketches: 4,142 images
+
+The images were sourced from:
+- A YouTube channel focused on mechanical design [Ivan I Artobolevsky. Mechanisms in modern engineering design. Mir publishers, 1, 2, 3, 4, 1975-1980.].
+- A digital library dedicated to mechanisms and gears [https://www.dmg-lib.org/dmglib/main/portal.jsp?mainNaviState=browsen.video].
+>>>>>>> dcc8de7cab8eae450d4458f813fbb09c22f38968
 - A book with a vast collection of 2D sketches of mechanical mechanisms [https://www.youtube.com/@thang010146/featured].
 
 ![Sample Figures](figures/wordcloud.jpg)
 
 ## Links to the Dataset
+<<<<<<< HEAD
 -**256x256 Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1yC6nKih8HcAAoKCVM-Lo6bxGQ2O8T5-_/view?usp=sharing)
 
 -**High-Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1jqSKDypbN3vfGBA2SnUuQLuSnZC3BPYh/view?usp=sharing)
+=======
+- **256x256 Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1yC6nKih8HcAAoKCVM-Lo6bxGQ2O8T5-_/view?usp=sharing)
+- **High-Resolution Images**: [Link to Google Drive](https://drive.google.com/file/d/1jqSKDypbN3vfGBA2SnUuQLuSnZC3BPYh/view?usp=sharing)
+>>>>>>> dcc8de7cab8eae450d4458f813fbb09c22f38968
 
 ## Applications
 The dataset has been used to fine-tune two AI models:
@@ -29,10 +43,11 @@ The dataset has been used to fine-tune two AI models:
 
 ![Generated Examples](figures/generated.png)
 
-## Structure of the Repository-**data/**: Contains the dataset links and other relevant files.
--**notebooks/**: Jupyter notebooks used for fine-tuning models and generating results.
--**figures/**: Contains the figures.
--**doc/**: Contains the project documentation, including the PDF version of the work.
+## Structure of the Repository
+- **data/**: Contains the dataset links and other relevant files.
+- **notebooks/**: Jupyter notebooks used for fine-tuning models and generating results.
+- **figures/**: Contains the figures.
+- **doc/**: Contains the project documentation, including the PDF version of the work.
 
 ## Limitations and Future Work
 - The dataset size is relatively small, which limits the model's ability to generalize across diverse mechanical designs.
