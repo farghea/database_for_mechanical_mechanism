@@ -5,8 +5,8 @@ This repository contains a dataset of approximately 9,000 images and correspondi
 
 ## Dataset Overview
 The dataset includes:
--**3D Sketches**: 4,852 images
--**2D Sketches**: 4,142 images
+-3D Sketches: 4,852 images
+-2D Sketches: 4,142 images
 
 The images were sourced from:
 - A YouTube channel focused on mechanical design [Reference](#).
