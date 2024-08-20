@@ -33,7 +33,7 @@ The dataset has been used to fine-tune two AI models:
 - **doc/**: Contains the project documentation, including the PDF version of the work.
 
 ## Limitations and Future Work
-- The dataset size is relatively small, which limits the model's ability to generalize across diverse mechanical designs.
+- The dataset size is moderate, which affects the model's ability to generalize across diverse mechanical designs.
 - Future work includes expanding the dataset, refining model architectures, and applying the models to real-world design challenges.
 
 ## Responsibility of Use
